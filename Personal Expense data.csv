@@ -1,0 +1,31 @@
+date,month,year,name,description,amount
+28,11,2026,book,dagdhf,101
+23,11,2026,pen,writing,10
+23,11,2026,phone,seeing,1000
+24,11,2026,laptop,work,20020
+24,11,2026,pen,work,10
+01,11,2026,Food,Lunch,120
+02,11,2026,Travel,Bus ticket,40
+03,11,2026,Books,Python book,450
+04,11,2026,Food,Dinner,180
+05,11,2026,Education,Online course,800
+06,11,2026,Travel,Train ticket,250
+07,11,2026,Electronics,Mouse,650
+08,11,2026,Food,Breakfast,80
+10,11,2026,Shopping,T-shirt,550
+12,11,2026,Travel,Auto fare,100
+15,11,2026,Food,Lunch,150
+18,11,2026,Books,Notebook,90
+20,11,2026,Electronics,Keyboard,1200
+22,11,2026,Education,Exam fee,500
+25,11,2026,Food,Dinner,220
+01,12,2026,Travel,Bus ticket,60
+03,12,2026,Food,Lunch,130
+05,12,2026,Shopping,Shoes,1500
+08,12,2026,Books,Programming book,600
+10,12,2026,Electronics,Headphones,1800
+12,12,2026,Food,Dinner,200
+15,12,2026,Education,Course fee,1000
+18,12,2026,Travel,Train ticket,300
+20,12,2026,Shopping,Backpack,750
+25,12,2026,Food,Restaurant,400
